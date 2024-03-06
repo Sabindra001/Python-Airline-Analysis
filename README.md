@@ -30,3 +30,5 @@ In conclusion, this Python SQLite project provides valuable insights for airline
 
 Happy analyzing and flying! ✈️📊
 
+Link for the airlines db: https://www.kaggle.com/datasets/datalearn/airlines-db?resource=download
+
